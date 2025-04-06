@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaitamaProgramer
 - 👀 I’m interested in frontend & backend.
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 
